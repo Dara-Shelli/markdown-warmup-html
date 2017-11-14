@@ -1,0 +1,21 @@
+body {
+  width: 100%;
+  background-image: url("https://image.freepik.com/free-vector/magic-wand-with-yellow-trail-background_1278-79.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: Wheat ;
+	font-size: 250%;
+	font-weight: 900;
+	margin-bottom: 1rem;
+ }
+
+ul {
+  color: Silver;
+  line-height: 40px;
+}
+
+
